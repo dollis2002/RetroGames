@@ -1,0 +1,16 @@
+body {
+    background-color: brown;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    text-decoration: none;
+}
+
+.col {
+    padding: 5vh;
+}
+
+#games {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 1vw;
+}
